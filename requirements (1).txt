@@ -1,0 +1,14 @@
+streamlit
+transformers
+torch
+
+%%writefile README.md
+# 🦾 Tony Stark Chatbot
+
+A conversational AI chatbot fine-tuned to respond like Tony Stark (Iron Man). Built using Hugging Face Transformers and deployed with Streamlit.
+
+- Model: https://huggingface.co/Ameya-28/tony-stark-chatbot
+- Interface: Streamlit
+- Hosting: Streamlit Cloud (Free)
+
+Built by Ameya ⚡
